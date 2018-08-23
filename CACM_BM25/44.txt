@@ -1,0 +1,102 @@
+Query #   Literal   Document                      Rank      Score               System Name
+
+44        Q0        corpus/CACM-2829.html         1         7.07497651179287    cacm_bm25 
+44        Q0        corpus/CACM-2523.html         2         3.2432673161189958  cacm_bm25 
+44        Q0        corpus/CACM-2125.html         3         1.3820093080072653  cacm_bm25 
+44        Q0        corpus/CACM-2751.html         4         1.3368193716029302  cacm_bm25 
+44        Q0        corpus/CACM-2754.html         5         1.2287856167643414  cacm_bm25 
+44        Q0        corpus/CACM-2019.html         6         0.6285076711555225  cacm_bm25 
+44        Q0        corpus/CACM-2478.html         7         0.38278835431780756 cacm_bm25 
+44        Q0        corpus/CACM-2771.html         8         0.3253659591942864  cacm_bm25 
+44        Q0        corpus/CACM-2391.html         9         0.3016142253885735  cacm_bm25 
+44        Q0        corpus/CACM-2210.html         10        0.2701911907390117  cacm_bm25 
+44        Q0        corpus/CACM-2325.html         11        0.26661423818827995 cacm_bm25 
+44        Q0        corpus/CACM-2683.html         12        0.2378170724717683  cacm_bm25 
+44        Q0        corpus/CACM-1002.html         13        0.1817455471254659  cacm_bm25 
+44        Q0        corpus/CACM-1686.html         14        0.17099364087974178 cacm_bm25 
+44        Q0        corpus/CACM-1653.html         15        0.16681376503560374 cacm_bm25 
+44        Q0        corpus/CACM-2848.html         16        0.16502743240208023 cacm_bm25 
+44        Q0        corpus/CACM-1679.html         17        0.15991028641945637 cacm_bm25 
+44        Q0        corpus/CACM-0533.html         18        0.1411088197400381  cacm_bm25 
+44        Q0        corpus/CACM-2687.html         19        0.1290561251219038  cacm_bm25 
+44        Q0        corpus/CACM-2924.html         20        0.11016180170734977 cacm_bm25 
+44        Q0        corpus/CACM-2753.html         21        0.08077002372060263 cacm_bm25 
+44        Q0        corpus/CACM-2825.html         22        0.07936972193828466 cacm_bm25 
+44        Q0        corpus/CACM-1404.html         23        0.07261232128342933 cacm_bm25 
+44        Q0        corpus/CACM-1732.html         24        0.07167904452993328 cacm_bm25 
+44        Q0        corpus/CACM-1823.html         25        0.07096339496769394 cacm_bm25 
+44        Q0        corpus/CACM-1801.html         26        0.06907797759569541 cacm_bm25 
+44        Q0        corpus/CACM-1802.html         27        0.0627073440267771  cacm_bm25 
+44        Q0        corpus/CACM-2494.html         28        0.06255736645999786 cacm_bm25 
+44        Q0        corpus/CACM-2719.html         29        0.059813131656898846cacm_bm25 
+44        Q0        corpus/CACM-1260.html         30        0.0586916939873298  cacm_bm25 
+44        Q0        corpus/CACM-0525.html         31        0.05854080007144596 cacm_bm25 
+44        Q0        corpus/CACM-1855.html         32        0.0584444623614914  cacm_bm25 
+44        Q0        corpus/CACM-0633.html         33        0.057811997377651886cacm_bm25 
+44        Q0        corpus/CACM-1809.html         34        0.05758319336433752 cacm_bm25 
+44        Q0        corpus/CACM-2050.html         35        0.05725981236392563 cacm_bm25 
+44        Q0        corpus/CACM-1782.html         36        0.05645905179530523 cacm_bm25 
+44        Q0        corpus/CACM-0931.html         37        0.05634552006876674 cacm_bm25 
+44        Q0        corpus/CACM-0461.html         38        0.055308485957071656cacm_bm25 
+44        Q0        corpus/CACM-1780.html         39        0.053089919905727555cacm_bm25 
+44        Q0        corpus/CACM-0912.html         40        0.05238957716646421 cacm_bm25 
+44        Q0        corpus/CACM-2923.html         41        0.050315889016616086cacm_bm25 
+44        Q0        corpus/CACM-1045.html         42        0.04985400066414066 cacm_bm25 
+44        Q0        corpus/CACM-1141.html         43        0.049725065827195526cacm_bm25 
+44        Q0        corpus/CACM-1507.html         44        0.049461374895955666cacm_bm25 
+44        Q0        corpus/CACM-1989.html         45        0.04934528061527208 cacm_bm25 
+44        Q0        corpus/CACM-1104.html         46        0.04770918478014706 cacm_bm25 
+44        Q0        corpus/CACM-0167.html         47        0.04770918478014706 cacm_bm25 
+44        Q0        corpus/CACM-2286.html         48        0.046971007226162965cacm_bm25 
+44        Q0        corpus/CACM-0631.html         49        0.04676132018186599 cacm_bm25 
+44        Q0        corpus/CACM-0085.html         50        0.04676132018186599 cacm_bm25 
+44        Q0        corpus/CACM-0826.html         51        0.04585038537312834 cacm_bm25 
+44        Q0        corpus/CACM-0238.html         52        0.045817886668066715cacm_bm25 
+44        Q0        corpus/CACM-1683.html         53        0.04581788666806671 cacm_bm25 
+44        Q0        corpus/CACM-0329.html         54        0.045585349005681335cacm_bm25 
+44        Q0        corpus/CACM-1669.html         55        0.045408098697503306cacm_bm25 
+44        Q0        corpus/CACM-1424.html         56        0.04540009438841869 cacm_bm25 
+44        Q0        corpus/CACM-2221.html         57        0.04530293070855618 cacm_bm25 
+44        Q0        corpus/CACM-0974.html         58        0.04528667134240329 cacm_bm25 
+44        Q0        corpus/CACM-1435.html         59        0.04524406570787281 cacm_bm25 
+44        Q0        corpus/CACM-2831.html         60        0.04498985257165587 cacm_bm25 
+44        Q0        corpus/CACM-1668.html         61        0.04497426335962908 cacm_bm25 
+44        Q0        corpus/CACM-0643.html         62        0.04441866922474381 cacm_bm25 
+44        Q0        corpus/CACM-1034.html         63        0.04415693815803488 cacm_bm25 
+44        Q0        corpus/CACM-2877.html         64        0.04381377856482012 cacm_bm25 
+44        Q0        corpus/CACM-1917.html         65        0.04372111051059917 cacm_bm25 
+44        Q0        corpus/CACM-2812.html         66        0.04293101692659367 cacm_bm25 
+44        Q0        corpus/CACM-2735.html         67        0.04272646071565251 cacm_bm25 
+44        Q0        corpus/CACM-2310.html         68        0.042541798946903006cacm_bm25 
+44        Q0        corpus/CACM-1837.html         69        0.042535899683504616cacm_bm25 
+44        Q0        corpus/CACM-1921.html         70        0.042535899683504616cacm_bm25 
+44        Q0        corpus/CACM-2871.html         71        0.042267623901948194cacm_bm25 
+44        Q0        corpus/CACM-1916.html         72        0.041418239022676634cacm_bm25 
+44        Q0        corpus/CACM-3069.html         73        0.04083696627208977 cacm_bm25 
+44        Q0        corpus/CACM-2437.html         74        0.04067045038423748 cacm_bm25 
+44        Q0        corpus/CACM-2671.html         75        0.04058867134181996 cacm_bm25 
+44        Q0        corpus/CACM-2025.html         76        0.04058867134181996 cacm_bm25 
+44        Q0        corpus/CACM-3149.html         77        0.04057356202696175 cacm_bm25 
+44        Q0        corpus/CACM-1529.html         78        0.04051154751330873 cacm_bm25 
+44        Q0        corpus/CACM-2505.html         79        0.04034833912835294 cacm_bm25 
+44        Q0        corpus/CACM-0464.html         80        0.04029654895923689 cacm_bm25 
+44        Q0        corpus/CACM-1014.html         81        0.03986190933512091 cacm_bm25 
+44        Q0        corpus/CACM-1709.html         82        0.039858294488269545cacm_bm25 
+44        Q0        corpus/CACM-2701.html         83        0.03966263432315091 cacm_bm25 
+44        Q0        corpus/CACM-3055.html         84        0.0393843052429225  cacm_bm25 
+44        Q0        corpus/CACM-2798.html         85        0.03862208216200403 cacm_bm25 
+44        Q0        corpus/CACM-1637.html         86        0.038193388027410555cacm_bm25 
+44        Q0        corpus/CACM-2824.html         87        0.038103650647422826cacm_bm25 
+44        Q0        corpus/CACM-2447.html         88        0.037457325719288316cacm_bm25 
+44        Q0        corpus/CACM-1365.html         89        0.03681537970774293 cacm_bm25 
+44        Q0        corpus/CACM-2835.html         90        0.03659495202799808 cacm_bm25 
+44        Q0        corpus/CACM-2446.html         91        0.0363635945482034  cacm_bm25 
+44        Q0        corpus/CACM-2634.html         92        0.03635280974657951 cacm_bm25 
+44        Q0        corpus/CACM-1325.html         93        0.036028175535673904cacm_bm25 
+44        Q0        corpus/CACM-2947.html         94        0.03574927614491929 cacm_bm25 
+44        Q0        corpus/CACM-2407.html         95        0.035641810544057205cacm_bm25 
+44        Q0        corpus/CACM-2739.html         96        0.034985608627533055cacm_bm25 
+44        Q0        corpus/CACM-1632.html         97        0.034779551881419436cacm_bm25 
+44        Q0        corpus/CACM-1911.html         98        0.03426641047818766 cacm_bm25 
+44        Q0        corpus/CACM-0284.html         99        0.03405042217693941 cacm_bm25 
+44        Q0        corpus/CACM-0726.html         100       0.03378414196644537 cacm_bm25 

@@ -1,0 +1,76 @@
+Analysis for 3 queries is performed for the stemmed results for the bm25 model.
+Top 5 documents are fetched for each run.
+
+These documents retrieved are compared with base runs for the same queries. 
+
+Query id considered:
+	query 1: portabl oper system/portable operating systems
+	query 2: code optim for space effici/code optimization for space efficiency
+	query 3: distribut comput structur and algorithm/Distributed computing structures and algorithms
+
+Analysis: In case of the stemmed run, all terms belonging to the same stem class are getting replaced by the stem. For example, the terms ‘Performance’, ‘performing’, ‘performer’, ‘performed’ etc. will be replaced by the stem ‘perform’. Similarly, the terms ‘computer’, ‘computing’, ‘compute’, ‘computed’ etc. will be replaced by ‘comput’. So, the documents having any of the terms will get transformed to the same stem. This will increase the parameter 'q' thereby increasing the score for that term.
+However, the number of terms will also reduce. So it cannot be said that stemmed queries will lead to higher scores.
+On the other hand, in case of the non-stemmed run, each distinct term is considered. For example, the term ‘Performance’ is different from ‘perform’, ‘computer’ is different from ‘compute’ etc. As both the queries and documents are not stemmed, each word (even though they might belong to the same stem class) will have different weightage. However, if more query terms appear in a document, the score for that document will increase.
+For the given queries and corpus, we found that base runs give higher scores than stemmed runs. This could work the other way around if the document length was more containing more stems.
+
+
+Query 1
+
+We can see that top 4 documents are the same. This maybe be due to the relatively low number of the words which reduce to "portabl" "system" etc. after stemming. Thus the documents retreived for stemmed and non-stemmed runs are similar. 
+
+Base:
+
+12        Q0        corpus/CACM-3127.html         1         1.1590898152031188  cacm_bm25 
+12        Q0        corpus/CACM-2246.html         2         1.1304580222763931  cacm_bm25 
+12        Q0        corpus/CACM-1930.html         3         0.8634206941796073  cacm_bm25 
+12        Q0        corpus/CACM-3196.html         4         0.7359357594685243  cacm_bm25 
+12        Q0        corpus/CACM-1461.html         5         0.07666713151058689 cacm_bm25
+
+Stemmed:
+
+1         Q0        3127                          1         0.22416108742563107 cacm_stemmed_bm25
+1         Q0        2246                          2         0.21584428357150906 cacm_stemmed_bm25
+1         Q0        1930                          3         0.18970476869348676 cacm_stemmed_bm25
+1         Q0        3196                          4         0.11081685374880708 cacm_stemmed_bm25
+1         Q0        2593                          5         0.05981906134908028 cacm_stemmed_bm25
+
+Query 2
+
+We can see the overlap of 3 documents for both the runs. This maybe be due to the relatively low number of the words which reduce to "code" and "space" etc. after stemming. However, there maybe be many words reducing to stems like "optim" and "effici". Thus the documents retreived for stemmed and non-stemmed runs are not all similar.
+
+Base:
+
+13        Q0        corpus/CACM-1947.html         1         0.16030829063465396 cacm_bm25 
+13        Q0        corpus/CACM-1795.html         2         0.15645921887589098 cacm_bm25 
+13        Q0        corpus/CACM-2495.html         3         0.1351801723084866  cacm_bm25 
+13        Q0        corpus/CACM-2464.html         4         0.1343592537970008  cacm_bm25 
+13        Q0        corpus/CACM-2748.html         5         0.13351389376206638 cacm_bm25
+
+Stemmed:
+
+2         Q0        1795                          1         0.02669791853618269 cacm_stemmed_bm25
+2         Q0        2897                          2         0.026607929964001846cacm_stemmed_bm25
+2         Q0        2748                          3         0.024848825394281217cacm_stemmed_bm25
+2         Q0        2495                          4         0.024184186344087286cacm_stemmed_bm25
+2         Q0        2491                          5         0.021679221102153708cacm_stemmed_bm25
+
+Query 3
+
+We can see no overlap of documents for the two runs. This maybe be due to the relatively high number of the words which reduce to "distribt", "comput" etc. after stemming. Thus the documents retreived for stemmed and non-stemmed runs are not similar. Similarity can be seen while comparing top 20 documents.
+
+Base:
+
+23        Q0        corpus/CACM-3148.html         1         0.271639059254785   cacm_bm25 
+23        Q0        corpus/CACM-2578.html         2         0.26956257377364756 cacm_bm25 
+23        Q0        corpus/CACM-3137.html         3         0.26282732932095554 cacm_bm25 
+23        Q0        corpus/CACM-2849.html         4         0.2447554712405509  cacm_bm25 
+23        Q0        corpus/CACM-3043.html         5         0.22703960521290575 cacm_bm25
+
+Stemmed:
+
+4         Q0        2212                          1         0.030169823043434005cacm_stemmed_bm25
+4         Q0        2549                          2         0.029423061403381644cacm_stemmed_bm25
+4         Q0        1941                          3         0.02819004549013408 cacm_stemmed_bm25
+4         Q0        1733                          4         0.02819004549013408 cacm_stemmed_bm25
+4         Q0        2914                          5         0.025732664853093508cacm_stemmed_bm25
+

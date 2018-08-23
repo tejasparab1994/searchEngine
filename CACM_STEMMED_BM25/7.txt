@@ -1,0 +1,102 @@
+Query #   Literal   Document                      Rank      Score               System Name
+
+7         Q0        1811                          1         0.04827768508461242 cacm_stemmed_bm25
+7         Q0        2664                          2         0.032351650792956384cacm_stemmed_bm25
+7         Q0        2973                          3         0.030871047410678355cacm_stemmed_bm25
+7         Q0        2714                          4         0.0305467571086221  cacm_stemmed_bm25
+7         Q0        3156                          5         0.02592380474679915 cacm_stemmed_bm25
+7         Q0        2288                          6         0.024394732895061628cacm_stemmed_bm25
+7         Q0        1262                          7         0.023475733599923873cacm_stemmed_bm25
+7         Q0        3075                          8         0.02250836768887738 cacm_stemmed_bm25
+7         Q0        141                           9         0.021844396486623407cacm_stemmed_bm25
+7         Q0        950                           10        0.020818001515403705cacm_stemmed_bm25
+7         Q0        891                           11        0.020681752519361912cacm_stemmed_bm25
+7         Q0        2278                          12        0.020651098676742256cacm_stemmed_bm25
+7         Q0        392                           13        0.020606006877515605cacm_stemmed_bm25
+7         Q0        1302                          14        0.020606006877515605cacm_stemmed_bm25
+7         Q0        2685                          15        0.020305997013035586cacm_stemmed_bm25
+7         Q0        1158                          16        0.020098446988555466cacm_stemmed_bm25
+7         Q0        2785                          17        0.019591584614730276cacm_stemmed_bm25
+7         Q0        1742                          18        0.019455684335932675cacm_stemmed_bm25
+7         Q0        2700                          19        0.019455417224147804cacm_stemmed_bm25
+7         Q0        1830                          20        0.01883916141018589 cacm_stemmed_bm25
+7         Q0        2433                          21        0.018803550230556552cacm_stemmed_bm25
+7         Q0        2386                          22        0.018693734521836675cacm_stemmed_bm25
+7         Q0        1457                          23        0.018657080230913274cacm_stemmed_bm25
+7         Q0        482                           24        0.01817845345463806 cacm_stemmed_bm25
+7         Q0        2175                          25        0.016956989939002874cacm_stemmed_bm25
+7         Q0        1699                          26        0.016814157057053036cacm_stemmed_bm25
+7         Q0        2266                          27        0.01680319697819741 cacm_stemmed_bm25
+7         Q0        82                            28        0.016768977361229342cacm_stemmed_bm25
+7         Q0        275                           29        0.016474748112568143cacm_stemmed_bm25
+7         Q0        651                           30        0.016474748112568143cacm_stemmed_bm25
+7         Q0        3134                          31        0.01612640385043226 cacm_stemmed_bm25
+7         Q0        2070                          32        0.016032813659970894cacm_stemmed_bm25
+7         Q0        2832                          33        0.015774827089582614cacm_stemmed_bm25
+7         Q0        1795                          34        0.015708159562077873cacm_stemmed_bm25
+7         Q0        1681                          35        0.015365839527201608cacm_stemmed_bm25
+7         Q0        2497                          36        0.015337544994926138cacm_stemmed_bm25
+7         Q0        2140                          37        0.015076162556215907cacm_stemmed_bm25
+7         Q0        2660                          38        0.015057431395327414cacm_stemmed_bm25
+7         Q0        1032                          39        0.014929465524638894cacm_stemmed_bm25
+7         Q0        2570                          40        0.014740079546791976cacm_stemmed_bm25
+7         Q0        1367                          41        0.014734276380861616cacm_stemmed_bm25
+7         Q0        2202                          42        0.014733067360700862cacm_stemmed_bm25
+7         Q0        2128                          43        0.014399384598970751cacm_stemmed_bm25
+7         Q0        239                           44        0.014136727887440545cacm_stemmed_bm25
+7         Q0        2882                          45        0.013955375482666336cacm_stemmed_bm25
+7         Q0        2114                          46        0.013773982823301965cacm_stemmed_bm25
+7         Q0        1825                          47        0.01369485739585294 cacm_stemmed_bm25
+7         Q0        292                           48        0.013200080623965754cacm_stemmed_bm25
+7         Q0        2967                          49        0.013109451544434419cacm_stemmed_bm25
+7         Q0        1665                          50        0.013091024987120236cacm_stemmed_bm25
+7         Q0        1569                          51        0.013038213727902008cacm_stemmed_bm25
+7         Q0        2990                          52        0.013010992622975292cacm_stemmed_bm25
+7         Q0        1828                          53        0.012950951141664549cacm_stemmed_bm25
+7         Q0        3059                          54        0.01281914514961326 cacm_stemmed_bm25
+7         Q0        3012                          55        0.012771735868035703cacm_stemmed_bm25
+7         Q0        1514                          56        0.012759008155594966cacm_stemmed_bm25
+7         Q0        2575                          57        0.012602912714447587cacm_stemmed_bm25
+7         Q0        2401                          58        0.012442551749847184cacm_stemmed_bm25
+7         Q0        2838                          59        0.012413910185257686cacm_stemmed_bm25
+7         Q0        46                            60        0.01223153741695331 cacm_stemmed_bm25
+7         Q0        2516                          61        0.012189858044455434cacm_stemmed_bm25
+7         Q0        2896                          62        0.011680987892979633cacm_stemmed_bm25
+7         Q0        2895                          63        0.011562264471850459cacm_stemmed_bm25
+7         Q0        1725                          64        0.011524412730033188cacm_stemmed_bm25
+7         Q0        2195                          65        0.0114825679657551  cacm_stemmed_bm25
+7         Q0        1988                          66        0.011291351172675572cacm_stemmed_bm25
+7         Q0        2536                          67        0.011215843807992593cacm_stemmed_bm25
+7         Q0        1236                          68        0.011144908158653221cacm_stemmed_bm25
+7         Q0        2307                          69        0.010849312358116765cacm_stemmed_bm25
+7         Q0        2246                          70        0.010834177893681463cacm_stemmed_bm25
+7         Q0        2851                          71        0.010678899185666666cacm_stemmed_bm25
+7         Q0        2519                          72        0.010616769062555672cacm_stemmed_bm25
+7         Q0        1937                          73        0.010434442771025558cacm_stemmed_bm25
+7         Q0        3169                          74        0.010430930920245426cacm_stemmed_bm25
+7         Q0        3119                          75        0.010358013672749737cacm_stemmed_bm25
+7         Q0        626                           76        0.010252481590853207cacm_stemmed_bm25
+7         Q0        2723                          77        0.01015527749743108 cacm_stemmed_bm25
+7         Q0        2557                          78        0.010143116521989645cacm_stemmed_bm25
+7         Q0        634                           79        0.010116171315725994cacm_stemmed_bm25
+7         Q0        1927                          80        0.010091820925655155cacm_stemmed_bm25
+7         Q0        2631                          81        0.010081562640520195cacm_stemmed_bm25
+7         Q0        2342                          82        0.010042200304159869cacm_stemmed_bm25
+7         Q0        1601                          83        0.010038737497059653cacm_stemmed_bm25
+7         Q0        2289                          84        0.010036031296421947cacm_stemmed_bm25
+7         Q0        1788                          85        0.009943074260604017cacm_stemmed_bm25
+7         Q0        657                           86        0.009753512055091928cacm_stemmed_bm25
+7         Q0        3126                          87        0.009744978728532316cacm_stemmed_bm25
+7         Q0        1530                          88        0.009724540851392148cacm_stemmed_bm25
+7         Q0        3168                          89        0.009678107267652804cacm_stemmed_bm25
+7         Q0        2976                          90        0.009540396904129826cacm_stemmed_bm25
+7         Q0        2711                          91        0.009499174588796023cacm_stemmed_bm25
+7         Q0        2311                          92        0.009490092870025028cacm_stemmed_bm25
+7         Q0        1846                          93        0.009445218409563277cacm_stemmed_bm25
+7         Q0        1613                          94        0.009418853845053822cacm_stemmed_bm25
+7         Q0        3194                          95        0.009163260291299427cacm_stemmed_bm25
+7         Q0        619                           96        0.009142286180873151cacm_stemmed_bm25
+7         Q0        1625                          97        0.00910980996684484 cacm_stemmed_bm25
+7         Q0        1359                          98        0.00901196191112066 cacm_stemmed_bm25
+7         Q0        2160                          99        0.008952778102376319cacm_stemmed_bm25
+7         Q0        2846                          100       0.008929208676674112cacm_stemmed_bm25
